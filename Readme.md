@@ -1,1 +1,4 @@
-Esto es un pintado de targetas con manipulacion del DOM (Sin usar templateString: para ver pintado con template string ver el repositorio: <a href="https://github.com/PabloMatMar/BiliotecaNYT"></a>)
+Esto es un pintado de targetas con manipulacion del DOM
+
+
+Para ver pintado con template string ver por ejemplo el repositorio: <a href="https://github.com/PabloMatMar/BiliotecaNYT"></a>)
